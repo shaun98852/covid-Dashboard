@@ -1,0 +1,63 @@
+/* Write your CSS here */
+.bgContainer {
+  background-color: #161625;
+  min-height: 100vh;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+@media screen and (max-width: 1200px) {
+  .bgContainer {
+    display: none;
+  }
+}
+
+.secondContainer {
+  width: 80%;
+  margin: auto;
+}
+
+.logoBox {
+  display: flex;
+  align-items: center;
+}
+.addLogo {
+  height: 50px;
+  margin-right: 20px;
+}
+
+.cowin {
+  font-family: roboto;
+  color: #2cc6c6;
+  font-size: 30px;
+}
+.cowinHeading {
+  color: #cbd5e1;
+  font-family: roboto;
+}
+.loadingBackground {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 30px;
+}
+.failureImage {
+  height: 300px;
+}
+.falureHeading {
+  font-size: 30px;
+  font-family: bree serif;
+  color: #ffffff;
+}
+
+.loaderBox {
+  padding-top: 30px;
+  text-align: center;
+}
+
+.addLogo {
+}
+.addLogo {
+}
+.addLogo {
+}
